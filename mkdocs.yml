@@ -1,0 +1,6 @@
+site_name: Greg
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Neovim: neovim.md
+theme: readthedocs
